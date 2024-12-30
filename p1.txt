@@ -1,3 +1,6 @@
 jsvnie
 vnehgieu
+<<<<<<< HEAD
 nebiur
+=======
+>>>>>>> 20b8fe1 (p2)
